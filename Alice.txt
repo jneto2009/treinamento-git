@@ -8,4 +8,4 @@ Editando Alice para teste de Rebasing
 Editando Alice para teste de alterações remotas
 
 Editando Alice no remoto para teste pull com conflitos
-
+Editando Alice no local para teste pull com conflitos
