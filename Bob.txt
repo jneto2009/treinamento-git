@@ -1,2 +1,2 @@
-Oi! Eu sou o Bob. Estou aqui há um tempo.
+Oi! Eu sou o Bobby. Estou aqui há um tempo.
 Testando mudanças em ambas as branches para merge divergente
