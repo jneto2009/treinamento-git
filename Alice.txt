@@ -4,3 +4,5 @@ tempo. E neste momento estou trabalhando nele enquanto faço o treinamento git.
 Agora estou editando Alice para teste de merge divergente
 
 Editando Alice para teste de Rebasing
+
+Editando Alice para teste de Rewrite
